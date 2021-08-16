@@ -1,7 +1,6 @@
 {
-  "name": "Hello~Alma",
-  "greetingText": "這是只屬於妳的生日卡片",
-  "wishText": "生日快樂!!",
+  "name": "嗨~你好",
+  "greetingText": "this is a test",
+  "wishText": "希望這個能幫助你 ;)",
   "imagePath": "img/lydia2.png"
-
 }
