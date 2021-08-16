@@ -278,7 +278,7 @@ const animationTimeline = () => {
 
 // Import the data to customize and insert them into page
 const fetchData = () => {
-  fetch("customize.json")
+  fetch("happy.json")
     .then(data => data.json())
     .then(data => {
       Object.keys(data).map(customData => {
